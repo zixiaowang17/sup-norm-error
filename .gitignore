@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+.RData
+*.pdf
+*.rds
+*.tex
+*.out
+*.err
+*.log
+**/results/
+**/figures/
